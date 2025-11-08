@@ -1,0 +1,37 @@
+# exported by https://3dviewer.net
+newmtl M_Seam_v02
+Kd 1 1 1
+d 1
+map_Kd Binary_0.png
+newmtl M_Seam_03
+Kd 1 1 1
+d 1
+map_Kd Binary_4.png
+newmtl M_Seam_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_7.png
+newmtl M_Door_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_10.png
+newmtl M_WoodTile_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_13.png
+newmtl M_Gramophone_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_15.png
+newmtl M_OldClock_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_18.png
+newmtl M_OldLamp_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_21.png
+newmtl M_WoodBox_v01
+Kd 1 1 1
+d 1
+map_Kd Binary_25.png

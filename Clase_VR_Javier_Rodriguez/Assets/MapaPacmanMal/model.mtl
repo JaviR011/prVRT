@@ -1,0 +1,38 @@
+# exported by https://3dviewer.net
+newmtl central_hall_mat
+Kd 1 1 1
+d 1
+map_Kd Binary_0.jpeg
+newmtl labs_base_mat
+Kd 1 1 1
+d 1
+map_Kd Binary_3.jpeg
+newmtl reactor_mat
+Kd 1 1 1
+d 1
+map_Kd Binary_6.jpeg
+newmtl toxic_waste_mat
+Kd 1 1 1
+d 1
+map_Kd Binary_9.png
+newmtl pac_man
+Kd 1 1 1
+d 1
+map_Kd Binary_12.jpeg
+newmtl pipes_black
+Kd 0 0 0
+d 1
+newmtl labs_decoration
+Kd 1 1 1
+d 1
+map_Kd Binary_16.jpeg
+newmtl Toxic_water_mat
+Kd 1 1 1
+d 1
+map_Kd Binary_20.png
+newmtl wallas_plug
+Kd 0 0 0
+d 1
+newmtl water
+Kd 0.5411764705882353 0.9137254901960784 1
+d 0.19962
